@@ -1,0 +1,51 @@
+resource_id,resource_name,resource_address,zip_code,phone,longitude,latitude,details,requirements,tract_id
+100,Trinity United Methodist Church,,44503,(330) 744-5032,-80.65099967820,41.09852993780,Good Shepherd Kitchen: Lunch 2nd & 4th Sat of month 11:00am-1:30pm,,39099813700
+101,Our Community Kitchen,551 Mahoning Ave,44502,(330) 770-2224,-80.65801834840,41.10180362090,"Soup Kitchen: Mon-Sat Breakfast 7am-9am, Lunch 11am-1pm
+Small Pantry: Daily bag of groceries",,39099813900
+102,Catholic Charities Regional Agency,319 W Rayen Ave,44502,(330) 744-3320,-80.65406565720,41.10590083950,Call for availability.,Funding based; makes referrals.,39099813700
+103,Saint John's Episcopal Church,323 Wick Ave,44503,(330) 743-3175,-80.64659686840,41.10346704710,"Red Door Café. Sundays 12:00pm
+Food Pantry: 3rd Sat of month 10:00am-11:15am",,39099814000
+104,Rescue Mission of Mahoning Valley,1300 Martin Luther King Jr Blvd,44510,(330) 744-5486,-80.66769461210,41.11381110760,"Breakfast: 6:15am-7:00am & Sat @ 7:30pm
+Lunch: 12:15pm-1:30pm
+Dinner: 6:00pm-7:00pm (7 days/week)",,39099814000
+105,Saint Vincent de Paul Dining Hall,252 E Wood St,44503,(330) 333-3601,-80.53339152120,41.03735386730,"Mon-Fri 10:30am-12:00noon
+Sat Breakfast: 10:00am-11:00am",,39099811100
+106,Saint Vincent de Paul Food Pantry,317 Via Mt Carmel Ave,44505,(330) 333-3601,-80.64273362380,41.10029237640,Mon-Fri 9:00am-1:00pm,,39099813700
+107,Dorothy Day House,620 Belmont Ave,44502,(330) 743-1409,-80.65539407630,41.11008480140,"Dinner: Mon-Thu 5:00pm-6:30pm
+Showers: Tue 1:00pm-4:15pm",,39099814000
+108,Millcreek Community United Methodist Church,1205 Elm St,0,(330) 782-0573,-81.04238867210,40.91837952970,Food Giveaway: Last Wed of month @ 9:00am,,39099813000
+109,Jewish Family Services,517 E Gypsy Ln,44504,(330) 746-7929,-80.66128567880,41.13360217120,Home Delivered meals,For Passport info call 330-505-2300,39099804200
+110,Saint Edward Church,240 Tod Ln,44504,(330) 744-9055,-80.64865357560,41.12520633680,"Food Giveaway: Mon, Wed, Fri 9:00am-10:30am (canned goods, frozen meats, bread)",Proof of residency & ID required,39099804200
+111,Youngstown Metropolitan Housing Authority,131 W Boardman St,44503,(330) 744-2161,-80.65168740110,41.09981567350,Food Giveaway: 3rd Fri of month @ 10:00am,,39099813700
+112,Veteran's Outreach,,44505,(330) 755-5792,0.00000000000,0.00000000000,Daily Food Pantry,For Veterans in need,
+113,Concordia Lutheran Church,125 N Brockway Ave,44509,(330) 792-1805,-80.69389007070,41.10524709070,Ongoing food assistance: 4th Sat of month,"Zip codes: 44509, 44502, 44507, 44511 (mostly seniors)",39099802900
+114,Zion Lutheran Church,3300 Canfield Rd,44511,(330) 792-4046,-80.70595640720,41.06371483300,Food Distribution: 3rd Sat of month,"Zip codes: 44511, 44515, 44509",39099802701
+115,New Beginnings Outreach Ministries,2007 S Schenley Ave,44511,(330) 270-8070,-80.69973816910,41.08046668720,Food: 3rd Fri of month,Call for more information,39099802702
+116,Representatives of Christ,1080 Salt Springs Rd,44509,(330) 610-8905,-80.68552166320,41.11461549840,Grocery Giveaway: Last Sat of month 12:00pm-3:00pm,,39099814100
+117,Alpha & Omega First Baptist Church,3120 Winton Ave,44505,(330) 743-5986,-80.58460552900,41.12882507050,Feeding Ministry: 4th Tue of month (clothing & bag of food),ID required,39099813800
+118,Heart Reach Ministries,211 Redondo Rd,44504,(330) 744-2000,-80.64760418910,41.12346813860,Rockford Village: Once a month,Call in advance for appointment; ID/proof of residency required,39099804000
+119,Elizabeth Missionary Baptist Church,1210 Himrod Ave,44506,(330) 746-7190,-80.62932169810,41.09636631470,"Food Giveaway: 4th Thu of month 10am-2pm
+Clothing: 2nd Tue 10am-1pm; 4th Thu 10am-2pm",,39099813700
+120,Price Memorial AME Zion Church,920 Dryden Ave,44505,(330) 743-1339,-80.61348286880,41.11259670790,"Emergency Baskets: Once a month (via Vindicator)
+Breakfast: 2nd Sun of month @ 9:00am",,39099814200
+121,EasterSeals Community Services,299 Edwards St,44502,(330) 743-1168,-80.66696478850,41.09917851950,Home delivered meals (once a week),Free to eligible Mahoning & Columbiana County seniors (60+),39099813900
+122,Beulah Baptist Church,570 Sherwood Ave,44511,(330) 783-1332,-80.67198644080,41.07430829270,Food Giveaway: 4th Sat of month,ID required,39099802300
+123,Saint Angela Merici Parish,397 S Jackson St,44506,(330) 747-6080,-80.62193274330,41.08711153380,"Food Giveaway: 2nd Thu of month @ 9:00am
+Hot Meals: Mon & Thu @ 3:30pm",New users fill out form. Hot meals not served during summer.,39099813700
+124,Calvary Ministries International / Mt. Calvary,1812 Oakhill Ave NE,44507,(330) 747-4445,-80.65984788920,41.08219072310,Food Pantry: 3rd Tue of month 10:00am-12:00pm,,39099802100
+125,Meals on Wheels of Youngstown,1840 Market St,44507,(330) 744-3583,-80.65700706770,41.08204920950,Home delivered meals to seniors,,39099802100
+126,Fish Samaritan House,17 Kenmore Ave,44507,(330) 746-4190,-80.65732266500,41.08672958210,Thrift store and food pantry,By referral only,39099802100
+127,Faith Community Covenant Church,1919 E Midlothian Blvd,44502,(330) 782-9338,-80.62037160220,41.06059042490,Food Distribution: 3rd Thu of month 1:00pm-2:00pm,,39099801400
+128,Mount Zion Baptist Church,827 Wilson Ave,44506,(330) 746-3601,-80.63430422800,41.09265572160,Food Giveaway: 3rd Tue of month @ 10:00am,,39099813700
+129,Needles Eye Christian Life Center,74 Kenmore Ave,44507,(330) 744-1582,-80.65894275260,41.08684358210,Food: 3rd Thu of month,"Zip codes: 44511, 44502, 44507",39099802100
+130,New Bethel Baptist Church,1507 Hillman St,44507,(330) 747-2125,-80.66389976240,41.08548181350,Food Giveaway: 3rd Thu of month,,39099802100
+131,OCCHA,3660 Shirley Rd,44502,(330) 781-1808,-80.63027243160,41.06243764430,Food and clothing: Mon-Wed 9:00am-3:00pm,,39099801200
+132,Protestant Family Service,496 Glenwood Ave,44502,(330) 746-4600,-80.67123564340,41.09530338940,Food Pantry: Mon-Thu,By appointment only,39099802500
+133,Salvation Army,1501 Glenwood Ave,44511,(330) 746-8403,-80.67312285640,41.08608043700,"Community Meal: Mon-Fri 11:30am-1:00pm
+Food Pantry: Mon & Thu 9:00am-11:00am",,39099813900
+134,Gibson Heights Second Presbyterian Church,756 E Dewey Ave,0,(330) 746-5371,-80.64143622140,41.07623846500,Free Meal: Last Wed of month,,39099801000
+135,Adventist Temple Emmanuel SDA,108 W Indianola Ave,44507,(330) 788-9796,-80.66056693440,41.07258329890,Food & Clothes: 4th Sun of month 1:00pm-2:00pm,ID required,39099802100
+136,Gleaners Food Bank,94 Pyatt St,0,(330) 746-8436,-80.64931272400,41.08912970060,Food: Tue 9:00am-11:00am,Bring bags,39099801700
+137,Evergreen SDA Pantry,7668 Glenwood Ave,44512,(330) 726-1645,-80.67238414530,41.01407886990,Food Pantry: 1st & 3rd Wed 9:00am-12:00pm,,39099812001
+138,Good Hope Lutheran Church of Boardman,98 Homestead Dr,44512,(330) 782-8109,-80.65793738800,41.04863569810,Emergency Food: Once a year,Call for appointment; Bring ID,39099811400
+139,Evangel Baptist Church,5248 Southern Blvd,44512,N/A,-80.65793743530,41.04527995140,Food Pantry: 3rd Sat of month,Proof of address & ID required,39099811800

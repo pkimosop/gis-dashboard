@@ -1,3 +1,7 @@
-pandas
 geopandas
+pandas
+numpy
 shapely
+pyproj
+pyogrio
+folium
