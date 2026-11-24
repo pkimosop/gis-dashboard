@@ -7,22 +7,20 @@
 """
 =====================================================================================
  MAHONING COUNTY / YOUNGSTOWN FOOD ACCESS & VULNERABILITY INFORMATION SYSTEM
- CSCI 6920 - Theory and Practice of Information Systems - Term Project (Peter Kimosop)
 =====================================================================================
 
-WHAT THIS PROGRAM DOES (in plain English)
+WHAT THIS PROGRAM DOES 
 -----------------------------------------
 Some neighborhoods have far fewer places to buy fresh, affordable food than others,
 and some residents have no car or bus to reach the places that do exist. This program:
 
     1. Reads five data files (neighborhood boundaries, census statistics, food stores,
        free-food resources such as pantries, and the WRTA bus schedule).
-    2. Cleans them so they all line up on the same map.
-    3. Measures, for every neighborhood, how far people must travel to reach a real
+    2. Measures, for every neighborhood, how far people must travel to reach a real
        grocery store, a bus stop, and a food pantry.
-    4. Combines those distances with income, poverty and car ownership into one
+    3. Combines those distances with income, poverty and car ownership into one
        "vulnerability score" from 0 (least vulnerable) to 100 (most vulnerable).
-    5. Builds an interactive web map that planners, residents and food pantries can click.
+    4. Builds an interactive web map that planners, residents and food pantries can click.
 
 THE DATA FILES (all downloaded earlier; the program finds them automatically)
 -----------------------------------------------------------------------------
@@ -32,7 +30,7 @@ THE DATA FILES (all downloaded earlier; the program finds them automatically)
     resources.csv           Food pantries, free meals, food giveaways, with coordinates
     wrta_gfts.zip(.zip)     WRTA bus data in GTFS format (stops, routes, schedules)
 
-HOW THE PROGRAM IS ORGANIZED (matches the Phase 2 system design)
+HOW THE PROGRAM IS ORGANIZED 
 ---------------------------------------------------------------
     STEP 1   Load census tracts ............ Data acquisition and integration  (R1)
     STEP 2   Load census (ACS) statistics .. Data acquisition and integration
@@ -44,14 +42,6 @@ HOW THE PROGRAM IS ORGANIZED (matches the Phase 2 system design)
     STEP 8   Compute vulnerability score ... Vulnerability assessment          (R4)
     STEP 9   Save results .................. Spatial database
     STEP 10  Build interactive map ......... Interactive GIS dashboard      (R1, R2, R5)
-
-HOW TO RUN IT
--------------
-    1. Install the needed packages once (type this in a terminal / command prompt):
-           pip install geopandas pandas numpy shapely pyproj folium
-    2. Check DATA_DIR in the CONFIGURATION section below (the folder holding your data).
-    3. Run:    python youngstown_food_access.py
-    4. Open:   <DATA_DIR>\\output\\food_access_dashboard.html   in a web browser.
 
 SHORT GLOSSARY OF TERMS USED IN THE COMMENTS
 --------------------------------------------
@@ -95,7 +85,7 @@ except ImportError as err:
 
 
 # =====================================================================================
-# CONFIGURATION: the only section you normally need to edit
+# CONFIGURATION
 # =====================================================================================
 
 # Folder that holds your downloaded files. The program also searches inside sub-folders,
